@@ -61,4 +61,4 @@ const usuario = obterUsuario(function resolverUsuario(erro, usuario) {
 })
 // const telefone = obterTelefone(usuario.id)
 
-// console.log('telefone', telefone)
+// console.log('telefone', telefone) 
